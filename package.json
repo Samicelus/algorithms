@@ -1,0 +1,26 @@
+{
+  "name": "algorithms-samicelus",
+  "version": "1.0.0",
+  "description": "实现一些算法并导出成实用类",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samicelus/algorithms.git"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "samicelus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samicelus/algorithms/issues"
+  },
+  "homepage": "https://github.com/Samicelus/algorithms#readme"
+}
